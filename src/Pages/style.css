@@ -1,0 +1,53 @@
+.bottoneLink {
+    text-decoration: none;
+    color: lightskyblue;
+    background-color: black;
+    padding: 10px 20px;
+    text-align: center;
+    display: inline-block;
+    border-radius: 25px;
+}
+
+.divFondo {
+    background-color: black;
+    border-radius: 25px;
+    color: lightskyblue;
+    font-size: 50px;
+}
+
+.altezzaFissa {
+    height: 90vh;
+}
+
+.altezzaDivFondo {
+    height: 20%;
+}
+
+.formatFondo {
+    font-size: 20px;
+}
+
+.responsive {
+    width: 100%;
+    height: auto;
+
+    margin: 10px;
+  }
+
+.formatProject {
+    border-style: solid;
+    border-color: lightskyblue;
+}
+
+
+/* Modale   */
+
+.altezzaModale {
+    height: 70vh;
+}
+
+.responsive {
+    width: 100%;
+    height: auto;
+    max-height: 60vh;
+  }
